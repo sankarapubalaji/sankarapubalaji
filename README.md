@@ -27,14 +27,14 @@ I'm a passionate Full Stack Developer with a strong foundation in designing and 
 - Best practices in system reliability and performance tuning.
 
 💬 **Ask me about:**  
-- MERN stack development and application architecture.  
-- RESTful APIs, GraphQL, and database optimization.  
+- Java Full stack and MERN stack development and application architecture.  
+- React JS, Node JS, AWS, Azure, web technologies, RESTful APIs, GraphQL, and database optimization, AI Prompt Engineering.
 - Scalable deployments using Docker, Redis, and Kubernetes.
 
 📫 **How to reach me:**  
 - [LinkedIn](https://www.linkedin.com/in/sankarapubalaji)  
 - [GitHub](https://github.com/sankarapubalaji)  
-- Email: balaji@example.com (Replace with your actual email)
+- Email: sankarapubalaji6505@gmail.com
 
 😄 **Pronouns:** He/Him  
 
